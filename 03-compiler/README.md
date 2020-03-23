@@ -33,11 +33,15 @@ t = a-b;
 ## 執行檔案方式
 1.開啟Terminal在下方輸入mingw32-make來執行C語言的檔案
 
-![image](https://github.com/syuan0327/sp108b/blob/master/03-compiler/1.JPG)
+![image](https://github.com/syuan0327/sp108b/blob/master/03-compiler/23.JPG)
 
 2.執行完後，會跑出一個exe檔
+
 3.輸入想要執行的檔案
-![image](https://github.com/syuan0327/sp108b/blob/master/03-compiler.JPG)
+
+![image](https://github.com/syuan0327/sp108b/blob/master/03-compiler/34.JPG)
+
+4.即可執行
 
 ## 執行結果
 ```
