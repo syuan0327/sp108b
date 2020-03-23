@@ -1,6 +1,6 @@
 # 為編譯器加上IF語法
 
-## IF語法寫法
+## IF語法程式碼
 ```
 // IF = if (E) STMT ( else STMT )?else是可選所以用括號和問號
 void IF() {
@@ -30,6 +30,9 @@ t = a+b;
 else
 t = a-b;
 ```
+## 執行檔案方式
+1.開啟Terminal在下放輸入mingw32-make來執行C語言的檔案
+![image](https://github.com/syuan0327/sp108b/blob/master/03-compiler/1.JPG)
 ## 執行結果
 ```
 ========== lex ==============
