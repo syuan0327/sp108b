@@ -20,7 +20,7 @@ void IF() {
   }
   emit("(L%d)\n", ifend);
 }
-
+ˋˋˋ
 ## 範例程式
 
 a = 3;
