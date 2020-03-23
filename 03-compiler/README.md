@@ -36,6 +36,7 @@ t = a-b;
 ![image](https://github.com/syuan0327/sp108b/blob/master/03-compiler/23.JPG)
 
 2.執行完後，會跑出一個exe檔
+
 3.輸入想要執行的檔案
 
 ![image](https://github.com/syuan0327/sp108b/blob/master/03-compiler/34.JPG)
