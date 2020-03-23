@@ -127,7 +127,7 @@ t = t10
 ## 遇到的問題
 在執行檔案的過程中，前面都很順利，但是到最後面會跑出這行文字
 
-![image](https://github.com/syuan0327/sp108b/blob/master/03-compiler/5.JPG)
+![image](https://github.com/syuan0327/sp108b/blob/master/03-compiler/5.jpg)
 
 後來再次輸入mingw32-make後出現了以下狀況
 
