@@ -43,7 +43,7 @@ t = a-b;
 
 4.即可執行
 
-*mingw32-make用來執行 Makefile, 呼叫 gcc 去建置專案的一種工具。
+_*mingw32-make用來執行 Makefile, 呼叫 gcc 去建置專案的一種工具。_
 
 ## 執行結果
 ```
