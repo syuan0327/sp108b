@@ -1,6 +1,6 @@
 # IF語法
 
-#  IF語法寫法
+## IF語法寫法
 
 // IF = if (E) STMT ( else STMT )?else是可選所以用括號和問號
 void IF() {
@@ -21,7 +21,7 @@ void IF() {
   emit("(L%d)\n", ifend);
 }
 
-# 範例程式
+## 範例程式
 
 a = 3;
 b = 5;
