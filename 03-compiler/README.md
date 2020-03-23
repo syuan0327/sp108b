@@ -1,7 +1,7 @@
 # IF語法
 
 ## IF語法寫法
-
+'''
 // IF = if (E) STMT ( else STMT )?else是可選所以用括號和問號
 void IF() {
   int ifbegin = nextLabel();//產生標記用nextLabel()
