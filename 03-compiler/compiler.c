@@ -102,7 +102,7 @@ void IF() {
   skip(")");
   STMT();
   emit("(L%d)\n", ifbegin);
-  if(isNext("else")){//如果後面是else比對else
+  if(isNext("else")){//如果後面是else比對else。
     skip("else");
     STMT();
   }
