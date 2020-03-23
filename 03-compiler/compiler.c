@@ -74,6 +74,7 @@ void ASSIGN() {
   emit("%s = t%d\n", id, e);
 }
 
+
 // WHILE = while (E) STMT
 void WHILE() {
   int whileBegin = nextLabel();
