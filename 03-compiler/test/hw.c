@@ -1,6 +1,9 @@
+
 a = 3;
 b = 5;
-if (a > b)
-t = a+b;
+c = 0;
+
+if( a > b)
+    c = a;
 else
-t = a-b;
+    c = b;

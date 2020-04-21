@@ -95,20 +95,24 @@ void WHILE() {
 void IF() {
   int ifbegin = nextLabel();//產生標記用nextLabel()
   int ifend = nextLabel();
-  emit("(L%d)\n", ifbegin);
+ // emit("(L%d)\n", ifbegin);
   skip("if");
   skip("(");
   int e = E();
-  emit("if not t%d goto L%d\n", e, ifend);
+  emit("if not t%d goto L%d\n", e, ifbegin);
   skip(")");
   STMT();
+  emit("goto(L%d)\n", ifend);
+
   emit("(L%d)\n", ifbegin);
   if(isNext("else")){//如果後面是else比對else。
     skip("else");
     STMT();
   }
   emit("(L%d)\n", ifend);
+
 }
+
 
 // STMT = WHILE | IF | BLOCK | ASSIGN
 void STMT() {
