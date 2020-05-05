@@ -6,15 +6,17 @@
 void IF() {
   int ifbegin = nextLabel();//產生標記用nextLabel()
   int ifend = nextLabel();
-  emit("(L%d)\n", ifbegin);
+ // emit("(L%d)\n", ifbegin);
   skip("if");
   skip("(");
   int e = E();
-  emit("if not t%d goto L%d\n", e, ifend);
+  emit("if not t%d goto L%d\n", e, ifbegin);
   skip(")");
   STMT();
+  emit("goto(L%d)\n", ifend);
+
   emit("(L%d)\n", ifbegin);
-  if(isNext("else")){//如果後面是else比對else
+  if(isNext("else")){//如果後面是else比對else。
     skip("else");
     STMT();
   }
@@ -108,17 +110,15 @@ t0 = 3
 a = t0
 t1 = 5
 b = t1
-(L0)
 t2 = a
 t3 = b
-t4 = t2 > t3
-if not t4 goto L1
+if not t4 goto L0
 t5 = a
 t6 = b
 t7 = t5 + t6
 t = t7
+goto(L1)
 (L0)
-t8 = a
 t9 = b
 t10 = t8 - t9
 t = t10
