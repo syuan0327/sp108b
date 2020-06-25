@@ -27,9 +27,25 @@ fn main() {
 }
 
 ```
-let => 在rust裡let為宣告變數，相當於C的int
+#### 說明：
+l.let => 在rust裡let為宣告變數，相當於C的int
 
-println!() or print!()=> 列印
+但是let後的變數具有不可變性，所以必須在let後加上mut
+
+mut => 這是一個可變的（mutable）變數綁定。 當一個綁定是可變的，代表你被允許改變它所指向的內容。
+
+程式碼：
+```
+fn main() {
+    let mut x = 5;
+    let y=2;
+    x = x+y;
+    println!("{}",x);
+}
+```
+結果：7
+
+2.println!() or print!()=> 列印
 
 #### 語法：
 println!("The value of x is: {}", x);
