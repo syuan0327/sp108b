@@ -9,12 +9,12 @@
 
 *請下載這個
 
-<img src = "" width=50% height=50%>
+<img src = "https://github.com/syuan0327/sp108b/blob/master/rust/install/1.JPG" width=50% height=50%>
 
 ##　第二步
 1.執行 rustup-init 文件
 
-<img src = "" width=50% height=50%>
+<img src = "https://github.com/syuan0327/sp108b/blob/master/rust/install/2.JPG" width=50% height=50%>
 
 2.
 
@@ -22,7 +22,7 @@
 
 (2)如果你安裝的是 MinGW，輸入 2 （自訂安裝），然後系統會詢問你 Default host triple? ，請將 default host triple 改成以下的樣子
 
-<img src = "" width=50% height=50%>
+<img src = "https://github.com/syuan0327/sp108b/blob/master/rust/install/3.JPG" width=50% height=50%>
 
 剩下的屬性請按照上圖去更改，更改後請按1
 
@@ -33,7 +33,7 @@
 
 如果有跑出跟以下一樣，就代表安裝成功
 
-<img src = "" width=50% height=50%>
+<img src = "https://github.com/syuan0327/sp108b/blob/master/rust/install/4.JPG" width=50% height=50%>
 
 
 
