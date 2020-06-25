@@ -2,7 +2,7 @@
 
 (*註：由於之前安裝RUST時未截圖，所以以下的圖皆來自[傻瓜教程](https://www.runoob.com/rust/rust-setup.html))
 
-##　第一步
+## 第一步
 
 1.下載 [RUST](https://www.rust-lang.org/zh-CN/tools/install)
 
@@ -12,7 +12,7 @@
 
 <img src = "https://github.com/syuan0327/sp108b/blob/master/rust/install/1.JPG" width=50% height=50%>
 
-##　第二步
+## 第二步
 
 1.執行 rustup-init 文件
 
@@ -28,7 +28,7 @@
 
 剩下的屬性請按照上圖去更改，更改後請按1
 
-##　第三步
+## 第三步
 
 1.確認安裝完畢
 
