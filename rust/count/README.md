@@ -28,7 +28,7 @@ fn main() {
 
 ```
 #### 說明：
-l.let => 在rust裡let為宣告變數，相當於C的int
+l. let => 在rust裡let為宣告變數，相當於C的int
 
 但是let後的變數具有不可變性，所以必須在let後加上mut
 
@@ -45,7 +45,7 @@ fn main() {
 ```
 結果：7
 
-2.println!() or print!()=> 列印
+2. println!() or print!()=> 列印
 
 #### 語法：
 println!("The value of x is: {}", x);
