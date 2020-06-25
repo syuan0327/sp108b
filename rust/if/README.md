@@ -1,6 +1,6 @@
 # 條件句
 
-這裡是講述條件句if,else if和if在rust與c之間的差別
+這裡是講述條件句if,else if和else在RUST與C之間的差別
 
 ## 程式碼：
 
@@ -52,7 +52,7 @@ fn main() {
     println!("{}", num);
 }
 ```
-顯示結果為a
+顯示結果為 3
 
 ## 說明：
 
