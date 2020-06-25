@@ -10,7 +10,7 @@ cargo new hi
 
 目錄：
 
-<img src = "https://github.com/syuan0327/sp108b/blob/master/rust/cargo/hi/1.JPG" width=50% height=50%>
+<img src = "https://github.com/syuan0327/sp108b/blob/master/rust/cargo/hi/1.JPG" width=30% height=30%>
 
 #### 二、
 ```
@@ -24,7 +24,7 @@ cargo build => 系統在創建工程時會生成一個 Hello, world 來源程式
 
 目錄：
 
-<img src = "https://github.com/syuan0327/sp108b/blob/master/rust/cargo/hi/2.JPG" width=50% height=50%>
+<img src = "https://github.com/syuan0327/sp108b/blob/master/rust/cargo/hi/2.JPG" width=30% height=30%>
 
 終端機：
 
