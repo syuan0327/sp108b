@@ -7,3 +7,5 @@
 2. ./hello
 
 執行hello檔
+
+<img src = "" width=50% height=50%>
