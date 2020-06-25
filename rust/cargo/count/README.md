@@ -1,5 +1,6 @@
 # let 和 println!
 
+## 說明
 這裡把let和println放在一起實作，是因為我覺得let和println!容易理解!
 
 程式碼：
@@ -18,8 +19,6 @@ fn main() {
 C:
 
 ```
-#include <stdio.h>
-
 int main()
 {
     int x = 1;
@@ -33,9 +32,9 @@ int main()
 ```
 let => 在rust裡let為宣告變數，相當於C的int
 
-println!() or print!()=> 列印
+println!{} or print!{}=> 列印
 
-語法：println!("The value of x is: {}", x);
+語法：println!{"The value of x is: {}", x};
 
 解釋：
 
