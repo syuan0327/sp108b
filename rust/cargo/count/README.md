@@ -2,7 +2,7 @@
 
 這裡把let和println!放在一起實作，是因為我覺得let和println!容易理解!
 
-程式碼：
+程式碼：(C與RUST的程是碼對照)
 
 
 C:
