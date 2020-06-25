@@ -6,7 +6,6 @@
 
 
 C:
-
 ```
 #include <stdio.h>
 
@@ -17,11 +16,9 @@ int main()
     x = x*2 ;
     printf("ans:%d", x);
 }
-
 ```
 
 RUST:
-
 ```
 fn main() {
     let x = 1;
@@ -29,7 +26,6 @@ fn main() {
     let x = x*2;
     println!{"ans:{}",x};
 }
-
 ```
 let => 在rust裡let為宣告變數，相當於C的int
 
