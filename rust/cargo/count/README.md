@@ -1,6 +1,6 @@
 # let 和 println!
 
-## 說明
+
 這裡把let和println放在一起實作，是因為我覺得let和println!容易理解!
 
 程式碼：
