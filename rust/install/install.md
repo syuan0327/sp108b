@@ -18,7 +18,7 @@
 
 <img src = "https://github.com/syuan0327/sp108b/blob/master/rust/install/2.JPG" width=50% height=50%>
 
-2.
+2.安裝
 
 (1)如果你已經安裝 MSVC，輸入 1 ，直接進入第二步。
 
