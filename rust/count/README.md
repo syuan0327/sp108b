@@ -47,9 +47,7 @@ fn main() {
 ```
 結果：7
 
-2.
-
-println!() or print!()=> 列印
+2.println!() or print!()=> 列印
 
 #### 語法：
 println!("The value of x is: {}", x);
