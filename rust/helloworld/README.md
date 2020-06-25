@@ -8,4 +8,4 @@
 
 執行hello檔
 
-<img src = "" width=50% height=50%>
+<img src = "https://github.com/syuan0327/sp108b/blob/master/rust/helloworld/1.JPG" width=50% height=50%>
