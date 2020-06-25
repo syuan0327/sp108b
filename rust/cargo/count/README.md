@@ -27,14 +27,14 @@ fn main() {
     println!{"ans:{}",x};
 }
 ```
-let => 在rust裡let為宣告變數，相當於C的int
+1. let => 在rust裡let為宣告變數，相當於C的int
 
-println!() or print!()=> 列印
+2. println!() or print!()=> 列印
 
-語法：println!("The value of x is: {}", x);
+    語法：println!("The value of x is: {}", x);
 
-解釋：
+    解釋：
 
-{} => 相當於c語言裡的 % + 字母
+    {} => 相當於c語言裡的 % + 字母
 
 
