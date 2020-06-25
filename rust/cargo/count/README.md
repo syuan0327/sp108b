@@ -1,20 +1,10 @@
 # let 和 println!
 
-這裡把let和println放在一起實作，是因為我覺得let和println!容易理解!
+這裡把let和println!放在一起實作，是因為我覺得let和println!容易理解!
 
 程式碼：
 
-RUST:
 
-```
-fn main() {
-    let x = 1;
-    let x = x+1;
-    let x = x*2;
-    println!{"ans:{}",x};
-}
-
-```
 C:
 
 ```
@@ -28,7 +18,17 @@ int main()
     printf("%d", x);
 }
 
+```
 
+RUST:
+
+```
+fn main() {
+    let x = 1;
+    let x = x+1;
+    let x = x*2;
+    println!{"ans:{}",x};
+}
 
 ```
 let => 在rust裡let為宣告變數，相當於C的int
