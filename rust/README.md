@@ -24,4 +24,4 @@
 
 另外如果覺得我的報告內容有誤也歡迎傳E-mail和我討論，非常感謝您！
 
-E-mail:syuan.jhong1989@gmaial.com
+E-mail:syuan.jhong1989@gmail.com
