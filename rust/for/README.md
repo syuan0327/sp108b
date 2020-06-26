@@ -27,7 +27,7 @@ fn main() {
 }
 ```
 #### 執行結果：
-<img src ="" width=50% height=50%>
+<img src ="https://github.com/syuan0327/sp108b/blob/master/rust/for/1.JPG" width=50% height=50%>
 
 ## for
 #### C:
@@ -51,7 +51,7 @@ fn main() {
 }
 ```
 #### 執行結果：
-<img src ="" width=50% height=50%>
+<img src ="https://github.com/syuan0327/sp108b/blob/master/rust/for/2.JPG" width=50% height=50%>
 
 ## loop
 #### RUST:
@@ -70,7 +70,7 @@ fn main() {
 }
 ```
 #### 執行結果：
-<img src ="" width=50% height=50%>
+<img src ="https://github.com/syuan0327/sp108b/blob/master/rust/for/3.JPG" width=50% height=50%>
 
 ## 說明:
 
