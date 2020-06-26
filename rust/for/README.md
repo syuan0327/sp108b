@@ -26,6 +26,9 @@ fn main() {
     println!("end:{}",number);
 }
 ```
+#### 執行結果：
+<img src ="" width=50% height=50%>
+
 ## for
 #### C:
 ```
@@ -47,6 +50,9 @@ fn main() {
     }
 }
 ```
+#### 執行結果：
+<img src ="" width=50% height=50%>
+
 ## loop
 #### RUST:
 ```
@@ -63,6 +69,8 @@ fn main() {
     }
 }
 ```
+#### 執行結果：
+<img src ="" width=50% height=50%>
 
 ## 說明:
 
