@@ -1,8 +1,8 @@
 fn main() {
-    let mut number = 10;
-    while number != 5 {
-        println!("{}", number);
-        number -= 1;
+    let mut num = 10;
+    while num != 5 {
+        println!("{}", num);
+        num -= 1;
     }
-    println!("end:{}",number);
+    println!("end:{}",num);
 }
