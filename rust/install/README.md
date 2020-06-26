@@ -36,7 +36,7 @@
 
 如果有跑出跟以下一樣，就代表安裝成功
 
-<img src = "https://github.com/syuan0327/sp108b/blob/master/rust/install/4.JPG" width=70% height=70%>
+<img src = "https://github.com/syuan0327/sp108b/blob/master/rust/install/4.JPG" width=50% height=50%>
 
 
 
