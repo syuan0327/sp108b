@@ -42,3 +42,5 @@ cargo run => 編譯並運行
 cargo check 
 ```
 該命令快速檢查代碼確保其可以編譯，但並不產生可執行檔
+
+<img src = "https://github.com/syuan0327/sp108b/blob/master/rust/hi/5.JPG" width=60% height=60%>
