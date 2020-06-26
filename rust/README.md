@@ -2,9 +2,9 @@
 此份報告包含了RUST的一些基本語法和其範例，每一個語法我都盡可能地寫了C語言版本和RUST語言版本，之所以會選擇寫C語言版本的原因有兩個，一方面是因為我對C語言比較熟悉，另一方面是C語言是許多現代語言的基礎，所以很多人第一次學的語言較多為C，所以寫C語言版本是為了讓大家能更快的理解。另外由於覺得自己目前還沒有能力寫好一個專案，故只有寫一些簡單的範例！
 
 # 參考資料
-[傻瓜教程](https://www.runoob.com/rust/rust-tutorial.html)
+1.[傻瓜教程](https://www.runoob.com/rust/rust-tutorial.html)
 
-[Rust 程序设计语言（第二版 & 2018 edition）简体中文版](https://kaisery.gitbooks.io/trpl-zh-cn/content/)
+2.[Rust 程序设计语言（第二版 & 2018 edition）简体中文版](https://kaisery.gitbooks.io/trpl-zh-cn/content/)
 
 # 內容
 一、[如何安裝RUST](https://github.com/syuan0327/sp108b/tree/master/rust/install)
