@@ -3,17 +3,25 @@
 
 # 參考資料
 [傻瓜教程](https://www.runoob.com/rust/rust-tutorial.html)
+
 [Rust 程序设计语言（第二版 & 2018 edition）简体中文版](https://kaisery.gitbooks.io/trpl-zh-cn/content/)
 
 # 內容
 一、[如何安裝RUST](https://github.com/syuan0327/sp108b/tree/master/rust/install)
+
 二、[rustc(編譯RUST檔)](https://github.com/syuan0327/sp108b/tree/master/rust/helloworld)
+
 三、[Cargo](https://github.com/syuan0327/sp108b/tree/master/rust/hi)
+
 四、[學習宣告變數以及輸出](https://github.com/syuan0327/sp108b/tree/master/rust/count)
+
 五、[條件句if..else if...else](https://github.com/syuan0327/sp108b/tree/master/rust/if)
+
 六、[迴圈](https://github.com/syuan0327/sp108b/tree/master/rust/for)
 
 # 結語
 礙於時間的關係，本報告只含以上幾種教學，如果暑假還有多餘的時間，我想要多添加一個python的版本以及會把剩下的語法慢慢補齊。
+
 另外如果覺得我的報告內容有誤也歡迎傳E-mail和我討論，非常感謝您~
+
 E-mail:syuan.jhong1989@gmaial.com
