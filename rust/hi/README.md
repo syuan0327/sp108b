@@ -31,8 +31,8 @@ cargo build => 系統在創建工程時會生成一個 Hello, world 來源程式
 
 終端機：
 
-<img src = "https://github.com/syuan0327/sp108b/blob/master/rust/hi/3.JPG" width=50% height=50%>
+<img src = "https://github.com/syuan0327/sp108b/blob/master/rust/hi/3.JPG" width=60% height=60%>
 
 cargo run => 編譯並運行
 
-<img src = "https://github.com/syuan0327/sp108b/blob/master/rust/hi/4.JPG" width=50% height=50%>
+<img src = "https://github.com/syuan0327/sp108b/blob/master/rust/hi/4.JPG" width=60% height=60%>
